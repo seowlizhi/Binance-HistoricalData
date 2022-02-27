@@ -5,9 +5,9 @@ pip install -r requirements.txt
 
 
 # Module used
-*pandas 
+pandas 
 
-*python-binance 
+python-binance 
 
 
 ## Usage:
